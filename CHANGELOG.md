@@ -4,6 +4,8 @@ Changelog
 ## Unreleased
 [Full Changelog](https://github.com/pcfens/puppet-filebeat/compare/v0.7.0...HEAD)
 
+- Allow the config file to be written to an alternate location. Be sure and read limitations before you use this.
+
 ## [v0.7.0](https://github.com/pcfens/puppet-filebeat/tree/v0.7.0)
 [Full Changelog](https://github.com/pcfens/puppet-filebeat/compare/v0.6.3...v0.7.0)
 
